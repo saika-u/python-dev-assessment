@@ -75,4 +75,4 @@ The API interaction task was the most enjoyable for me. It was interesting to fe
 
 This assessment helped me improve my understanding of Python and Git. I became more confident in writing clean code, debugging programs, using object-oriented programming, and working with APIs. It also gave me practical experience following a structured development workflow similar to what is used in real-world software projects.
 
-This version reads naturally and is suitable for a GitHub repository, without sounding overly formal or AI-generated.
+
