@@ -36,7 +36,7 @@ To run this project, install the following:
 
 Install the required packages using:
 
-`pip install requests black flake8`
+pip install requests black flake8
 
 ## Running the Programs
 
