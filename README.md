@@ -1,5 +1,3 @@
-Certainly! Below is the same README content as **plain Markdown text**, without wrapping it in a code block. That means if you copy it into your `README.md`, ChatGPT won't display a "Copy" button around it.
-
 # Python Developer Assessment
 
 This repository contains the work I completed as part of the Python Developer Assessment Program. The purpose of this project was to strengthen my Python programming skills while learning how to use Git and GitHub in a practical way. Throughout the assessment, I completed several tasks covering Python basics, object-oriented programming, error handling, data structures, algorithms, and working with REST APIs.
