@@ -4,12 +4,12 @@ This repository contains the work I completed as part of the Python Developer As
 
 ## Project Files
 
-* `hello.py` – A simple program to confirm that my Python environment was set up correctly.
-* `bad_style.py` – An exercise focused on improving code formatting using Black and checking code quality with Flake8.
-* `dsa_challenges.py` – Solutions for data structure and algorithm exercises.
-* `book_store.py` – A Python class demonstrating object-oriented programming concepts.
-* `debug_errors.py` – Programs demonstrating debugging and exception handling.
-* `api_client.py` – A script that retrieves user information from a REST API.
+*  hello.py – A simple program to confirm that my Python environment was set up correctly.
+*  bad_style.py – An exercise focused on improving code formatting using Black and checking code quality with Flake8.
+*  dsa_challenges.py – Solutions for data structure and algorithm exercises.
+*  book_store.py – A Python class demonstrating object-oriented programming concepts.
+*  debug_errors.py – Programs demonstrating debugging and exception handling.
+*  api_client.py – A script that retrieves user information from a REST API.
 
 ## Completed Tasks
 
@@ -42,12 +42,12 @@ Install the required packages using:
 
 Run any of the Python files from the terminal:
 
-* `python hello.py`
-* `python bad_style.py`
-* `python dsa_challenges.py`
-* `python book_store.py`
-* `python debug_errors.py`
-* `python api_client.py`
+*  python hello.py
+*  python bad_style.py
+*  python dsa_challenges.py
+*  python book_store.py
+*  python debug_errors.py
+*  python api_client.py
 
 ## Git Branches
 
